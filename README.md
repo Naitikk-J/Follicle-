@@ -1,8 +1,6 @@
 🌿 Follicle+ - Your Personal Hair Wellness Companion
 Follicle+ is an intelligent, data-driven platform designed to help you understand, track, and improve your hair health. By leveraging modern technology, we provide personalized insights and routines, moving beyond generic advice to deliver care that's tailored specifically for you.
 
-<p align="center">Replace this placeholder with a screenshot of your application's dashboard.</p>
-
 🎯 The Problem
 The world of hair care is saturated with conflicting information and one-size-fits-all solutions. It's difficult for individuals to diagnose their specific hair and scalp issues, track the effectiveness of products, and build a routine that delivers tangible results.
 
@@ -46,7 +44,7 @@ Git
 Installation
 Clone the repository:
 
-git clone [https://github.com/your-username/follicle-plus.git](https://github.com/your-username/follicle-plus.git)
+git clone
 
 Navigate to the project directory:
 
@@ -89,3 +87,4 @@ Please refer to the CONTRIBUTING.md file for more information on our development
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
